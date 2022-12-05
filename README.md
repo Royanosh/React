@@ -12,5 +12,8 @@
 >
 > - Call Them From WithIn The React Function Components And Not Just Any Regular JavaScript Function.
 
-- useState
+- ## useState
+
   - [Counter with class component and function component.](./React%20Hooks/useState/counter/)
+
+  - [Reset, Increase, Decrease, Increase Five by previousState](./React%20Hooks/useState/previous_state/)
