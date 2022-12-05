@@ -4,8 +4,10 @@
 
 ## With Class Component
 
-- Have to use `<ClassCounter />` in App.js
+- Have to use `<ClassCounter />` in App.js.
 
 ## Function Component
 
--
+- Using Hooks - **_useState_**
+
+- Have to use `<FunctionCounter />` in App.js.
