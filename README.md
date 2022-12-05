@@ -1,5 +1,6 @@
 # React
+
 ## React Hooks
 
-- use State
-  - Counter with class component and function component.  
+- useState
+  - Counter with class component and function component.
